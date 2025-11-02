@@ -1,3 +1,3 @@
 Expedia
-https://alexandr-77.github.io/Expedia-2021/
+https://alexandr-77.github.io/expedia-2021/
 
